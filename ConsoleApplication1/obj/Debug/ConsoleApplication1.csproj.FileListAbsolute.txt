@@ -1,0 +1,9 @@
+C:\Dropbox\Programming\testing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Dropbox\Programming\testing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Dropbox\Programming\testing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Dropbox\Programming\testing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Dropbox\Programming\testing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Dropbox\Programming\testing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Dropbox\Programming\testing\ConsoleApplication1\Skoleskema\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Dropbox\Programming\testing\ConsoleApplication1\Skoleskema\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Dropbox\Programming\testing\ConsoleApplication1\Skoleskema\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
